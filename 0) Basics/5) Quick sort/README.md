@@ -1,4 +1,4 @@
-## Quick search
+## Quick sort
 
 ###### Execution time
 
